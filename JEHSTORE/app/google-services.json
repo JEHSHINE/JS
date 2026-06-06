@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061031070135",
+    "project_id": "com-example-jehstore-d50b9",
+    "storage_bucket": "com-example-jehstore-d50b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061031070135:android:2575e83d3839f2c2c08032",
+        "android_client_info": {
+          "package_name": "com.example.jeh_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjxFrz8otkWj_uCUMZ4IUQkcVTM2TyufA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
